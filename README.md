@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+ mutheu Muthoki!+%F0%9F%91%8B;Statistics+%2B+Machine+Learning;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Statistics+%2B+Machine+Learning;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
 </h1>
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
@@ -83,7 +83,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
     </td>
     <td align="center" width="110">
       <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-        <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" alt="duckdb" height="30"/>
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="duckdb" height="28"/>
       </a>
     </td>
     <td align="center" width="110">

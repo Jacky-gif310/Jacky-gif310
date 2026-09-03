@@ -4,10 +4,11 @@
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
 
-I'm a Statistics & Information Technology graduate (Co-operative University of Kenya) and an ML-track alum of the FlyRank AI Fluency internship. I work at the intersection of data analysis, machine learning, and web development — turning messy data into models and dashboards people can actually use.
+I'm a Statistics & Information Technology graduate (Co-operative University of Kenya) and an ML-track alum of the **FlyRank AI Fluency internship**. I work at the intersection of data analysis, machine learning, and web development — turning messy data into models and dashboards people can actually use.
 
-💬 **Ask me about:** Python, SQL, Machine Learning, Data Viz  
-⚡ **Currently:** Open to IT opportunities
+| 💬 **Ask me about** | ⚡ **Currently** |
+|---|---|
+| Python, SQL, Machine Learning, Data Viz | Open to IT opportunities |
 
 <h3 align="left">Connect with me:</h3>
 <table>
@@ -19,7 +20,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
     </td>
     <td align="center" width="100">
       <a href="https://jacky-gif310.github.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="60" width="60"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="60" width="60"/>
       </a>
     </td>
     <td align="center" width="100">
@@ -99,29 +100,24 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 </table>
 
 <h3 align="left">What I work with:</h3>
-📊 <strong>Data Analysis & Reporting</strong> — spotting trends, generating reports that drive decisions<br>
-🤖 <strong>Machine Learning</strong> — classification, feature engineering, model evaluation (Random Forest, Logistic Regression)<br>
-🗄️ <strong>Databases</strong> — SQL/MySQL design, querying, and optimization<br>
-🌐 <strong>Web Development</strong> — PHP, JavaScript, HTML/CSS for data-driven web apps<br>
-🧠 <strong>AI & Generative AI</strong> — prompt engineering, AI-assisted automation, AWS PartyRock apps<br>
-📈 <strong>Data Visualization</strong> — interactive dashboards with Chart.js and Google Sheets<br>
+
+- 📊 **Data Analysis & Reporting** — spotting trends, generating reports that drive decisions
+- 🤖 **Machine Learning** — classification, feature engineering, model evaluation (Random Forest, Logistic Regression)
+- 🗄️ **Databases** — SQL/MySQL design, querying, and optimization
+- 🌐 **Web Development** — PHP, JavaScript, HTML/CSS for data-driven web apps
+- 🧠 **AI & Generative AI** — prompt engineering, AI-assisted automation, AWS PartyRock apps
+- 📈 **Data Visualization** — interactive dashboards with Chart.js and Google Sheets
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="410" src="https://streak-stats.demolab.com/?user=jackygif310&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=jackygif310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="410" src="https://streak-stats.demolab.com/?user=Jacky-gif310&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Jacky-gif310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackygif310&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-gif310&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <h4 align="left">Trophies:</h4>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jackygif310" alt="jackygif310" />
-  </a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jacky-gif310" alt="Jacky-gif310" /></a> </p>
 
-<h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great.">
-</h2>
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>

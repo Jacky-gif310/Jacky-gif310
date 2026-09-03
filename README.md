@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Jacky-gif310/Jacky-gif310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Muthoki!+%F0%9F%91%8B;Statistics+%2B+Machine+Learning;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
 </h1>
@@ -24,7 +8,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 
 | 💬 **Ask me about** | ⚡ **Currently** |
 |---|---|
-| Python, SQL, Machine Learning, Data Viz | Open to data/ML opportunities |
+| Python, SQL, Machine Learning, Data Viz | Open to IT opportunities |
 
 <h3 align="left">Connect with me:</h3>
 <table>
@@ -127,10 +111,10 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="410" src="https://streak-stats.demolab.com/?user=Jacky-gif310&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Jacky-gif310&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="410" src="https://streak-stats.demolab.com/?user=Jacky-gif310&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Jacky-gif310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-gif310&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-gif310&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <h4 align="left">Trophies:</h4>

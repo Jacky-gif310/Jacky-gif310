@@ -13,19 +13,19 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="140">
       <a href="https://www.linkedin.com/in/jackline-mutheu-27ab01290/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
       </a>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="140">
       <a href="https://jacky-gif310.github.io" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="60" width="60"/>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28"/>
       </a>
     </td>
-    <td align="center" width="100">
+    <td align="center" width="140">
       <a href="mailto:mutheujackline976@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="60" width="60"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
       </a>
     </td>
   </tr>
@@ -112,12 +112,10 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 <br>
 <div align="center">
   <img width="410" src="https://streak-stats.demolab.com/?user=Jacky-gif310&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=Jacky-gif310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-gif310&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </div>
 
 <h4 align="left">Trophies:</h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jacky-gif310" alt="Jacky-gif310" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-rouge.vercel.app/?username=Jacky-gif310" alt="Jacky-gif310" /></a> </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>

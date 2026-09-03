@@ -24,7 +24,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
     </td>
     <td align="center" width="100">
       <a href="mailto:mutheujackline976@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="60" width="60"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="60" width="60"/>
       </a>
     </td>
   </tr>

@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C5C,100:D8A24A&height=180&section=header&text=Jackline%20Mutheu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20%2B%20Machine%20Learning&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C5C,100:D8A24A&height=180&section=header&text=Jackline%20Mutheu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%2B%20Statistics&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Statistics+%2B+Machine+Learning;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Information+Technology+%2B+Statistics;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
 </h1>
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
@@ -122,11 +122,6 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 <h3 align="center">📅 Contribution Calendar 📅</h3>
 <p align="center">
   <img src="./isocalendar.svg" alt="Isometric contribution calendar" width="80%"/>
-</p>
-
-<h3 align="center">⏱️ Coding Habits ⏱️</h3>
-<p align="center">
-  <img src="./habits.svg" alt="Coding habits breakdown" width="80%"/>
 </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>

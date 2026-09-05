@@ -9,6 +9,9 @@ jobs:
   trophy:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate trophies
         uses: ryo-ma/github-profile-trophy@v1
         with:
@@ -16,12 +19,14 @@ jobs:
           theme: algolia
           column: 4
           outputFolder: dist
+
       - name: Commit trophy image
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add dist/*.svg
           git commit -m "Update trophies" -a || echo "No changes to commit"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

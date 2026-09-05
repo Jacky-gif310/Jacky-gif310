@@ -12,20 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophies
-        uses: ryo-ma/github-profile-trophy@v1
-        with:
-          username: Jacky-gif310
-          theme: algolia
-          column: 4
-          outputFolder: dist
+      - name: Download trophy SVG
+        run: |
+          mkdir -p dist
+          curl -s "https://github-profile-trophy.vercel.app/?username=Jacky-gif310&theme=algolia&column=4" -o dist/github-trophy.svg
 
       - name: Commit trophy image
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/*.svg
-          git commit -m "Update trophies" -a || echo "No changes to commit"
+          git add dist/github-trophy.svg
+          git commit -m "Update trophies" || echo "No changes to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

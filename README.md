@@ -19,7 +19,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://jacky-gif310.github.io" target="_blank">
+      <a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28"/>
       </a>
     </td>
@@ -116,6 +116,6 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 </div>
 
 <h4 align="left">Trophies:</h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-rouge.vercel.app/?username=Jacky-gif310" alt="Jacky-gif310" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jacky-gif310&theme=algolia&column=4" alt="Jacky-gif310 trophies" /></a> </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>

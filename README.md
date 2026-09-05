@@ -115,7 +115,9 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
   <img src="./metrics.svg" alt="GitHub metrics" />
 </div>
 
-<h4 align="left">Trophies:</h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jacky-gif310&theme=algolia&column=4" alt="Jacky-gif310 trophies" /></a> </p>
+<h3 align="center">📅 Contribution Calendar 📅</h3>
+<p align="center">
+  <img src="./isocalendar.svg" alt="Isometric contribution calendar" width="80%"/>
+</p>
 
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>

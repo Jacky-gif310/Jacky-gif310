@@ -16,25 +16,13 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 
 <h3 align="left">Connect with me:</h3>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/jackline-mutheu-27ab01290/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28"/>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="mailto:mutheujackline976@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  🔗 <a href="https://www.linkedin.com/in/jackline-mutheu-27ab01290/" target="_blank">LinkedIn</a>
+  &nbsp;|&nbsp;
+  💻 <a href="https://github.com/Jacky-gif310" target="_blank">GitHub</a>
+  &nbsp;|&nbsp;
+  📧 <a href="mailto:mutheujackline976@gmail.com">Email</a>
+</p>
 
 <h3 align="left">Languages & Tools:</h3>
 

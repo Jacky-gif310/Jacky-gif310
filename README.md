@@ -10,8 +10,8 @@
 
 I'm a Statistics & Information Technology graduate (Co-operative University of Kenya) and an ML-track alum of the **FlyRank AI Fluency internship**. I work at the intersection of data analysis, machine learning, and web development — turning messy data into models and dashboards people can actually use.
 
-| 💬 **Ask me about** | ⚡ **Currently** |
-|---|---|
+| 💬 **Ask me about**                     | ⚡ **Currently**          |
+| --------------------------------------- | ------------------------ |
 | Python, SQL, Machine Learning, Data Viz | Open to IT opportunities |
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +29,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
     </td>
     <td align="center" width="140">
       <a href="mailto:mutheujackline976@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
       </a>
     </td>
   </tr>
@@ -105,12 +105,42 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 
 <h3 align="left">What I work with:</h3>
 
-- 📊 **Data Analysis & Reporting** — spotting trends, generating reports that drive decisions
-- 🤖 **Machine Learning** — classification, feature engineering, model evaluation (Random Forest, Logistic Regression)
-- 🗄️ **Databases** — SQL/MySQL design, querying, and optimization
-- 🌐 **Web Development** — PHP, JavaScript, HTML/CSS for data-driven web apps
-- 🧠 **AI & Generative AI** — prompt engineering, AI-assisted automation, AWS PartyRock apps
-- 📈 **Data Visualization** — interactive dashboards with Chart.js and Google Sheets
+* 📊 **Data Analysis & Reporting** — spotting trends, generating reports that drive decisions
+* 🤖 **Machine Learning** — classification, feature engineering, model evaluation (Random Forest, Logistic Regression)
+* 🗄️ **Databases** — SQL/MySQL design, querying, and optimization
+* 🌐 **Web Development** — PHP, JavaScript, HTML/CSS for data-driven web apps
+* 🧠 **AI & Generative AI** — prompt engineering, AI-assisted automation, AWS PartyRock apps
+* 📈 **Data Visualization** — interactive dashboards with Chart.js and Google Sheets
+
+<h2 align="left">🚀 Projects</h2>
+
+<h3>🛍️ ShopPulse — Comparative Customer Feedback Analytics</h3>
+
+<p>
+A web-based customer feedback analytics platform that collects shopping experiences and transforms survey responses into comparative insights across different online and retail shopping platforms.
+</p>
+
+<ul>
+  <li>Collects customer shopping experiences through an interactive survey</li>
+  <li>Supports multiple shopping platforms and custom platform entries</li>
+  <li>Compares customer satisfaction and experiences across platforms</li>
+  <li>Analyzes delivery, pricing, product quality, customer support, and recommendation patterns</li>
+  <li>Provides interactive analytics dashboards using Chart.js</li>
+  <li>Uses Supabase and PostgreSQL for shared online survey data</li>
+  <li>Responsive web interface hosted on GitHub Pages</li>
+</ul>
+
+<p>
+<strong>Technologies:</strong> HTML5 · CSS3 · JavaScript · Chart.js · Supabase · PostgreSQL · GitHub Pages
+</p>
+
+<p>
+🔗 <strong><a href="https://jacky-gif310.github.io/SHOPPULSE/" target="_blank">Live Demo</a></strong>
+&nbsp; | &nbsp;
+🔗 <strong><a href="https://github.com/Jacky-gif310/SHOPPULSE" target="_blank">Source Code</a></strong>
+</p>
+
+<!-- Add other projects here -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>

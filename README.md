@@ -8,7 +8,9 @@
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
 
-I'm a **Statistics & Information Technology graduate** from the **Co-operative University of Kenya** and an **ML-track alum of the FlyRank AI Fluency internship**. I combine data analysis, machine learning, and web development to turn data into practical insights and solutions.
+I'm a **Statistics & Information Technology graduate** from the **Co-operative University of Kenya** and an **ML-track alum of the FlyRank AI Fluency internship**, combining data analysis, machine learning, and web development to turn data into practical insights and solutions.
+
+
 
 
 <h3 align="left">Connect with me:</h3>

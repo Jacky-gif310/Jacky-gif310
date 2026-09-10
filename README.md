@@ -15,6 +15,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 | Python, SQL, Machine Learning, Data Viz | Open to IT opportunities |
 
 <h3 align="left">Connect with me:</h3>
+
 <table>
   <tr>
     <td align="center" width="140">
@@ -29,13 +30,14 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
     </td>
     <td align="center" width="140">
       <a href="mailto:mutheujackline976@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
       </a>
     </td>
   </tr>
 </table>
 
 <h3 align="left">Languages & Tools:</h3>
+
 <table>
   <tr>
     <td align="center" width="110">
@@ -69,6 +71,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="110">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -140,18 +143,51 @@ A web-based customer feedback analytics platform that collects shopping experien
 🔗 <strong><a href="https://github.com/Jacky-gif310/SHOPPULSE" target="_blank">Source Code</a></strong>
 </p>
 
+<hr>
+
+<h3>🤖 FlyRank AI — Machine Learning & AI Fluency Internship</h3>
+
+<p>
+A practical machine learning and AI portfolio developed through the FlyRank AI Internship, combining machine learning, data analysis, AI-assisted workflows, and responsible AI practice.
+</p>
+
+<ul>
+  <li>Developed a <strong>Refresh / Content Opportunity Scoring</strong> lane focused on prioritizing pages for possible content improvement</li>
+  <li>Explored anonymized search data and built machine learning approaches for content opportunity analysis</li>
+  <li>Framed the problem as a machine learning task using prediction targets, features, evaluation metrics, and validation strategies</li>
+  <li>Created a baseline action-scoring approach and reviewed ranked results with attention to limitations and potential false recommendations</li>
+  <li>Applied data-quality checks, leakage prevention, and honest limitations around observational data</li>
+  <li>Designed AI-assisted workflows for research, synthesis, drafting, and review</li>
+  <li>Explored AI agents, workflows, MCP, prompt engineering, and practical AI tooling</li>
+  <li>Built portfolio materials documenting machine learning and AI learning outcomes</li>
+</ul>
+
+<p>
+<strong>Technologies:</strong> Python · Google Colab · Pandas · NumPy · Scikit-learn · Claude AI · Anthropic Academy · GitHub
+</p>
+
+<p>
+🔗 <strong><a href="https://github.com/Jacky-gif310" target="_blank">GitHub Profile</a></strong>
+&nbsp; | &nbsp;
+🔗 <strong><a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">Portfolio</a></strong>
+</p>
+
 <!-- Add other projects here -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
+
 <div align="center">
   <img width="410" src="https://streak-stats.demolab.com/?user=Jacky-gif310&theme=react&border_radius=10" alt="streak stats"/>
   <img src="./metrics.svg" alt="GitHub metrics" />
 </div>
 
 <h3 align="center">📅 Contribution Calendar 📅</h3>
+
 <p align="center">
   <img src="./isocalendar.svg" alt="Isometric contribution calendar" width="80%"/>
 </p>
 
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great."></h2>
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great.">
+</h2>

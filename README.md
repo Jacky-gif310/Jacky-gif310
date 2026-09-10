@@ -170,7 +170,7 @@ A practical machine learning and AI portfolio developed through the FlyRank AI I
 </p>
 
 <p>
-🔗 <strong><a href="https://github.com/Jacky-gif310" target="_blank">GitHub Profile</a></strong>
+🔗 <strong><a href="https://https://github.com/Jacky-gif310/flyrank-ml-internship" target="_blank">view Repository</a></strong>
 &nbsp; | &nbsp;
 🔗 <strong><a href="https://jacky-gif310.github.io/FlyrankAI-portfolio/" target="_blank">Portfolio</a></strong>
 </p>

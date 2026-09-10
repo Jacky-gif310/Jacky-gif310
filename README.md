@@ -9,10 +9,13 @@
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
 
 I'm a Statistics & Information Technology graduate (Co-operative University of Kenya) and an ML-track alum of the **FlyRank AI Fluency internship**. I work at the intersection of data analysis, machine learning, and web development — turning messy data into models and dashboards people can actually use.
-
-| 💬 **Ask me about**                     | ⚡ **Currently**          |
 | --------------------------------------- | ------------------------ |
-| Python, SQL, Machine Learning, Data Viz | Open to IT opportunities |
+| 💬 **Ask me about**                               | ⚡ **Currently**                             |
+| ------------------------------------------------- | ------------------------------------------- |
+| Python, SQL, Machine Learning, Data Visualization | Open to IT, Data & Technology opportunities |
+| Data Analysis & Statistics                        | Building practical data-driven projects     |
+| Web Development & Databases                       | Exploring AI & Machine Learning             |
+
 
 <h3 align="left">Connect with me:</h3>
 

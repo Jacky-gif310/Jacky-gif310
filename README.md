@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B4D,50:AD1457,100:F48FB1&height=180&section=header&text=Jackline%20Mutheu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%2B%20Statistics&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C5C,100:D8A24A&height=180&section=header&text=Jackline%20Mutheu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%2B%20Statistics&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&color=D6336C&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Information+Technology+%2B+Statistics;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Information+Technology+%2B+Statistics;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
 </h1>
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
@@ -24,7 +24,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://jacky-gif310.github.io/FlyrankAI-portfolio/" target="_blank">
+      <a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28"/>
       </a>
     </td>
@@ -169,7 +169,7 @@ A practical machine learning and AI portfolio developed through the FlyRank AI I
 <p>
 🔗 <strong><a href="https://github.com/Jacky-gif310" target="_blank">GitHub Profile</a></strong>
 &nbsp; | &nbsp;
-🔗 <strong><a href="https://jacky-gif310.github.io/FlyrankAI-portfolio/" target="_blank">Portfolio</a></strong>
+🔗 <strong><a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">Portfolio</a></strong>
 </p>
 
 <!-- Add other projects here -->

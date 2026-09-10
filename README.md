@@ -9,13 +9,6 @@
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
 
 I'm a Statistics & Information Technology graduate (Co-operative University of Kenya) and an ML-track alum of the **FlyRank AI Fluency internship**. I work at the intersection of data analysis, machine learning, and web development — turning messy data into models and dashboards people can actually use.
-| --------------------------------------- | ------------------------ |
-| 💬 **Ask me about**                               | ⚡ **Currently**                             |
-| ------------------------------------------------- | ------------------------------------------- |
-| Python, SQL, Machine Learning, Data Visualization | Open to IT, Data & Technology opportunities |
-| Data Analysis & Statistics                        | Building practical data-driven projects     |
-| Web Development & Databases                       | Exploring AI & Machine Learning             |
-
 
 <h3 align="left">Connect with me:</h3>
 
@@ -34,18 +27,17 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 </p>
 
 <p>
-  🌐 <strong>Portfolio:</strong><br>
-  <a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">
-    https://jacky-gif310.github.io/jackline-portfolio/
-  </a>
-</p>
-
-<p>
   📧 <strong>Email:</strong><br>
   <a href="mailto:mutheujackline976@gmail.com">
     mutheujackline976@gmail.com
   </a>
 </p>
+
+| 💬 **Ask me about**                               | ⚡ **Currently**                             |
+| ------------------------------------------------- | ------------------------------------------- |
+| Python, SQL, Machine Learning, Data Visualization | Open to IT, Data & Technology opportunities |
+| Data Analysis & Statistics                        | Building practical data-driven projects     |
+| Web Development & Databases                       | Exploring AI & Machine Learning             |
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -200,5 +192,5 @@ A practical machine learning and AI portfolio developed through the FlyRank AI I
 </p>
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great." alt="Thanks for stopping by"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great." />
 </h2>

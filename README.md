@@ -114,7 +114,7 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 * 📊 **Data Analysis & Reporting** — spotting trends, generating reports that drive decisions
 * 🤖 **Machine Learning** — classification, feature engineering, model evaluation (Random Forest, Logistic Regression)
 * 🗄️ **Databases** — SQL/MySQL design, querying, and optimization
-* 🌐 **Web Development** — PHP, JavaScript, HTML/CSS for data-driven web apps
+* 🌐 **Web Development** — HTML5, CSS3, JavaScript, Chart.js, Supabase, and PostgreSQL for interactive, data-driven web applications
 * 🧠 **AI & Generative AI** — prompt engineering, AI-assisted automation, AWS PartyRock apps
 * 📈 **Data Visualization** — interactive dashboards with Chart.js and Google Sheets
 

@@ -148,6 +148,36 @@ A web-based customer feedback analytics platform that collects shopping experien
 
 <hr>
 
+<h3>📊 Smart Data Analysis Platform — Automated Dataset Insights</h3>
+
+<p>
+A web-based data analytics platform that transforms raw CSV datasets into clear, actionable insights through automated data profiling, quality assessment, statistical analysis, relationship detection, outlier analysis, and interactive visualizations.
+</p>
+
+<ul>
+  <li>Uploads and analyzes CSV datasets directly through the browser</li>
+  <li>Profiles dataset structure, dimensions, column types, and data quality</li>
+  <li>Calculates missing values and duplicate records</li>
+  <li>Generates descriptive statistics for numerical variables</li>
+  <li>Identifies strong relationships between numerical variables</li>
+  <li>Detects potential statistical outliers using the IQR method</li>
+  <li>Provides an automated dataset health score</li>
+  <li>Displays interactive statistical visualizations and dataset previews</li>
+  <li>Deployed as a live Python web application</li>
+</ul>
+
+<p>
+<strong>Technologies:</strong> Python · FastAPI · Pandas · NumPy · SciPy · Scikit-learn · JavaScript · Chart.js · Render
+</p>
+
+<p>
+🔗 <strong><a href="https://smart-data-analysis-platform.onrender.com/" target="_blank">Live Demo</a></strong>
+&nbsp; | &nbsp;
+🔗 <strong><a href="https://github.com/Jacky-gif310/smart-data-analysis-platform" target="_blank">Source Code</a></strong>
+</p>
+
+<hr>
+
 <h3>🤖 FlyRank AI — Machine Learning & AI Fluency Internship</h3>
 
 <p>

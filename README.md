@@ -1,9 +1,10 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C5C,100:D8A24A&height=180&section=header&text=Jackline%20Mutheu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20%2B%20Statistics&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Information+Technology+%2B+Statistics;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Jackline+Mutheu!+%F0%9F%91%8B;Information+Technology+%2B+Statistics;Turning+data+into+decisions;Welcome+to+my+GitHub+%F0%9F%98%8A" />
 </h1>
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/1051419/screenshots/8802547/media/e754a37e6ecda4e963c8d3c98a05e8d3.gif">
@@ -33,11 +34,11 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
   </a>
 </p>
 
-| 💬 **Ask me about**                               | ⚡ **Currently**                             |
+| 💬 **Ask me about** | ⚡ **Currently** |
 | ------------------------------------------------- | ------------------------------------------- |
 | Python, SQL, Machine Learning, Data Visualization | Open to IT, Data & Technology opportunities |
-| Data Analysis & Statistics                        | Building practical data-driven projects     |
-| Web Development & Databases                       | Exploring AI & Machine Learning             |
+| Data Analysis & Statistics | Building practical data-driven projects |
+| Web Development & Databases | Exploring AI & Machine Learning |
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -74,7 +75,6 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center" width="110">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -117,6 +117,24 @@ I'm a Statistics & Information Technology graduate (Co-operative University of K
 * 🌐 **Web Development** — HTML5, CSS3, JavaScript, Chart.js, Supabase, and PostgreSQL for interactive, data-driven web applications
 * 🧠 **AI & Generative AI** — prompt engineering, AI-assisted automation, AWS PartyRock apps
 * 📈 **Data Visualization** — interactive dashboards with Chart.js and Google Sheets
+
+<h2 align="left">🌐 Personal Portfolio</h2>
+
+<p>
+  Explore my personal portfolio website to learn more about my background, skills, projects, and experience in Statistics, Information Technology, Data Analysis, Machine Learning, and Web Development.
+</p>
+
+<p align="center">
+  <a href="https://jacky-gif310.github.io/jackline-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2B4C5C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Jacky-gif310/jackline-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Source_Code-D8A24A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code"/>
+  </a>
+</p>
+
+<hr>
 
 <h2 align="left">🚀 Projects</h2>
 
@@ -208,6 +226,7 @@ A practical machine learning and AI portfolio developed through the FlyRank AI I
 <!-- Add other projects here -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <br>
 
 <div align="center">
